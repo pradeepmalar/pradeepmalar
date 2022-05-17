@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pradeepmalar
-- 👀 I’m interested in learning Linux and develop my own Linux distro
 - 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on Linux UI development
 - 📫 How to reach me: Instagram: @pradeep_malarvannan
 
 <!---

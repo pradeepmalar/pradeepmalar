@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradeepmalar
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning C and Python
 - 📫 How to reach me: Instagram: @pradeep_malarvannan
 
 <!---
